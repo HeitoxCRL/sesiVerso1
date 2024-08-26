@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#banner-top{
+    padding: 30px 0 ;
+    width: 100% ;
+    padding: 0%;
+   
+    height: 120px;
+    background-image: linear-gradient(to right,#DB02C9, #0F7AAB);
+    color: white;
+
+}
+#banner-top h1{
+    padding-top: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+#body{
+    color: black;
+    text-align: justify;
+    margin-top: 150px;
+}
+#body-top{
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right: 400px;
+}
+
+#body-mid{
+    margin-left: 500px;
+    margin-right: 400px;
+    font-size: 24px;
+}
+
+#bottom{
+    text-align: center;
+
+    padding: 30px 0 ;
+    width: 100%   ;
+    padding: 0%;
+    height: 120px;
+    background-image: linear-gradient(to left,#DB02C9, #0F7AAB);
+    color:white ;
+}
+#bottom h2{
+    padding-top: 40px;
+    font-weight: bold;
+}
